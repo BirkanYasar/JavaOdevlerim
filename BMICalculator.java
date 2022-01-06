@@ -14,4 +14,4 @@ public class BMICalculator {
 		System.out.println("BMI :"+ result);
 	}
 
-}//BirkanYasar
+}//BirkanYasar...
